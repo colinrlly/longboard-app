@@ -1,0 +1,25 @@
+{
+  "name": "longboard-app",
+  "version": "1.0.0",
+  "description": "Automatic longboard hill finder backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinrlly/longboard-app.git"
+  },
+  "keywords": [
+    "Longboarding",
+    "Node",
+    "Express",
+    "OpenStreetMap"
+  ],
+  "author": "Colin Reilly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinrlly/longboard-app/issues"
+  },
+  "homepage": "https://github.com/colinrlly/longboard-app#readme"
+}
